@@ -112,5 +112,5 @@ The system:
 
 ## 📽️ Demo Video
 
-▶️ [Click here to watch the project demo](https://drive.google.com/file/d/1oK8l6ipLLjtEj4OtIGCxEkz0WyWjhyLf/view)
+▶️ [Click here to watch the project video explanation](https://drive.google.com/file/d/1oK8l6ipLLjtEj4OtIGCxEkz0WyWjhyLf/view)
 
