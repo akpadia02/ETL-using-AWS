@@ -102,11 +102,11 @@ A custom **AWS Glue Job** (PySpark) applies transformation logic:
 In the era of data-driven business intelligence, raw e-commerce product data is often noisy, incomplete, or inconsistently formatted. This project demonstrates a scalable and automated ETL pipeline using AWS services to process Amazon product listings.
 
 The system:
-- Extracts raw CSV data from Amazon S3
-- Uses AWS Glue Crawler to infer schema and catalog metadata
-- Applies cleaning rules (e.g., fixing availability, filling missing values, type conversions) via AWS Glue Job
-- Loads the cleaned data in Parquet format to S3 and finally into Amazon Redshift
-- Enables high-performance analytics and dashboarding with clean, structured product data
+- Extracts raw CSV data from Amazon S3.
+- Uses AWS Glue Crawler to infer schema and catalog metadata.
+- Applies cleaning rules (e.g., fixing availability, filling missing values, type conversions) via AWS Glue Job.
+- Loads the cleaned data in Parquet format to S3 and finally into Amazon Redshift.
+- Enables high-performance analytics and dashboarding with clean, structured product data.
 
 ---
 
